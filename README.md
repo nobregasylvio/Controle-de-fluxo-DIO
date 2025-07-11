@@ -31,7 +31,7 @@ Se o segundo número for **maior** que o primeiro, o programa realiza uma contag
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone git@github.com:nobregasylvio/Controle-de-fluxo-DIO.git
     ```
    
 2. Compile os arquivos .java:
