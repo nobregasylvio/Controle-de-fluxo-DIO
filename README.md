@@ -22,6 +22,9 @@ Se o segundo número for **maior** que o primeiro, o programa realiza uma contag
       - Contador.java
       - exception/
         - ParametrosInvalidosException.java
+  - assets/
+    - exemplo-de-uso.png
+    - exemplo-de-uso-erro.png
 
 
 ## 🚀 Como Executar
